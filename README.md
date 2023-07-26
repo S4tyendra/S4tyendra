@@ -100,7 +100,7 @@ on a positive and open note
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=s4tyendra&icon=8&color=0)](https://devh.in)
+[![](https://visitcount.itsvg.in/api?id=s4tyendra)](https://devh.in)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Money Bag" width="25" height="25" /> You can help me by Donating
 
