@@ -370,4 +370,6 @@ on a positive and open note
 
 ---
 
+Want a security Pro-Tip? Install any Linux distro, Update, use UFW, AppArmor, and laugh at Windows' "security" theater. Mic drop. 🎤
+
 ![](https://hit.yhype.me/github/profile?user_id=118092154)
