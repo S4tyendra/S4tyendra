@@ -367,9 +367,9 @@ on a positive and open note
 ---
 <!--
 [![](https://visitcount.itsvg.in/api?id=s4tyendra)](https://devh.in) -->
+### 🎶 Now Playing (via [devh.in](https://devh.in))
+[![](https://devh.in/api/users/vdg72undirlkob38kepm9foj/spotify/now-playing.png)](https://devh.in)
 
 ---
-
-Want a security Pro-Tip? Install any Linux distro, Update, use UFW, AppArmor, and laugh at Windows' "security" theater. Mic drop. 🎤
 
 ![](https://hit.yhype.me/github/profile?user_id=118092154)
