@@ -368,7 +368,7 @@ on a positive and open note
 <!--
 [![](https://visitcount.itsvg.in/api?id=s4tyendra)](https://devh.in) -->
 ### 🎶 Now Playing (via [devh.in](https://devh.in))
-[![](https://devh.in/api/users/vdg72undirlkob38kepm9foj/spotify/now-playing.png)](https://devh.in)
+[![](https://devh.in/api/users/vdg72undirlkob38kepm9foj/spotify/now-playing.png?t=123)](https://devh.in)
 
 ---
 
